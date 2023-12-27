@@ -1,5 +1,7 @@
 # Festival_Sales_Analysis
 Festival_Sales_Analysis | Python EDA Project
+
+
 Performed data cleaning and manipulation
 Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
 Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
